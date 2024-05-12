@@ -45,5 +45,5 @@ def compression_ratio(paths):
 checkers = ["checkers.ulbmp", "checkers2.ulbmp", "checkers3_1.ulbmp", "checkers3_2.ulbmp", "checkers3_4.ulbmp",
             "checkers3_8_norle.ulbmp", "checkers3_8_rle.ulbmp", "checkers4.ulbmp"]
 airplanes = ["airplane.ulbmp", "airplane2.ulbmp", "airplane4.ulbmp"]
-mercures = ["mercure.ulbmp", "mercure2.ulbmp", "mercure3_8_no_rle.ulbmp.ulbmp", "mercure3_8_rle.ulbmp", "mercure4.ulbmp"]
+mercures = ["mercure.ulbmp", "mercure2.ulbmp", "mercure3_8_no_rle.ulbmp", "mercure3_8_rle.ulbmp", "mercure4.ulbmp"]
 monkeys = ["monkey.ulbmp", "monkey2.ulbmp", "monkey3_8_norle.ulbmp", "monkey3_8_rle.ulbmp", "monkey4.ulbmp"]
